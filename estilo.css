@@ -20,7 +20,7 @@ body{
 }
 header{
 	height: 100vh;
-	background-image: linear-gradient(to top, rgba(219, 220, 215, 0.027) 0%, rgba(221, 220, 215, 0.101) 24%, rgba(226, 201, 204, 0.061) 30%, rgba(101, 201, 231, 0.123) 46%, rgba(184, 35, 90, 0) 59%, rgba(128, 19, 86, 0.032) 71%, rgba(61, 22, 53, 0.1) 84%, rgba(28, 26, 39, 0.464) 100%), url(../v2/img/ramen3.jpg);
+	background-image:  url("img/woman.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment:fixed;
