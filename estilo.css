@@ -20,7 +20,7 @@ body{
 }
 header{
 	height: 100vh;
-	background-image:  url("img/woman.jpg");
+	background-image: linear-gradient(to top, rgba(219, 220, 215, 0.027) 0%, rgba(221, 220, 215, 0.101) 24%, rgba(226, 201, 204, 0.061) 30%, rgba(101, 201, 231, 0.123) 46%, rgba(184, 35, 90, 0) 59%, rgba(128, 19, 86, 0.032) 71%, rgba(61, 22, 53, 0.1) 84%, rgba(28, 26, 39, 0.464) 100%), url(../v2/img/fondoramen2.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment:fixed;
@@ -82,23 +82,27 @@ header{
 .subtitulo{
 	text-align: center;
 	font-weight: 300;
-	color: orangered;
+	color: orange;
 	margin-bottom: 40px;
 	font-size: 40px;
+	font-family: 'Secular One', sans-serif;
+	
 	
 }
+
 .subtitulo-2{
+	font-family: 'Secular One', sans-serif;
 	text-align: center;
 	font-weight: 300;
-	color: orangered;
+	color: orange;
 	margin-bottom: 40px;
 	font-size: 40px;
 	padding-bottom: 200px;
-	font-family: 'Anton', sans-serif;
+	
 }
 .gallery{
 	
-	background-image:linear-gradient(to top, rgba(20, 21, 18, 0.284) 0%, rgba(16, 14, 1, 0.107) 24%, rgba(226, 201, 204, 0.061) 30%, rgba(101, 201, 231, 0.123) 46%, rgba(184, 35, 90, 0) 59%, rgba(128, 19, 86, 0.032) 71%, rgba(61, 22, 53, 0.1) 84%, rgba(28, 26, 39, 0.464) 100%), url("img/fondo\ copia.jpg");
+	background-image:linear-gradient(to right, #434343 0%, black 100%);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment:fixed;
@@ -173,7 +177,7 @@ header{
 	
 }
 .conte{
-	background-image:linear-gradient(to top, rgba(20, 21, 18, 0.284) 0%, rgba(16, 14, 1, 0.107) 24%, rgba(226, 201, 204, 0.061) 30%, rgba(101, 201, 231, 0.123) 46%, rgba(184, 35, 90, 0) 59%, rgba(128, 19, 86, 0.032) 71%, rgba(61, 22, 53, 0.1) 84%, rgba(28, 26, 39, 0.464) 100%), url("img/fondo\ copia.jpg");
+	background-image:linear-gradient(to right, #434343 0%, black 100%);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment:fixed;
